@@ -36,9 +36,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\ApplyGravity.cs" />
-     <Compile Include="Assets\Collide.cs" />
-     <Compile Include="Assets\WorldProperties.cs" />
+     <Compile Include="Assets\Scripts\PlayerBehaviour.cs" />
+     <Compile Include="Assets\Scripts\PlayerInput.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:/Unity Games/2019.4.13f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
